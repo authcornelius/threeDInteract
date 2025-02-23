@@ -9,10 +9,18 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
+    "@react-three/drei": "^9.121.5",
+    "@react-three/fiber": "^8.17.14",
     "expo": "~52.0.35",
+    "expo-asset": "~11.0.4",
+    "expo-file-system": "~18.0.10",
+    "expo-gl": "~15.0.4",
     "expo-status-bar": "~2.0.1",
+    "expo-three": "^8.0.0",
     "react": "18.3.1",
-    "react-native": "0.76.7"
+    "react-native": "0.76.7",
+    "three": "^0.173.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
